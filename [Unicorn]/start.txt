@@ -1,0 +1,15 @@
+START CFG : 
+
+ensure tp1
+ensure tp2
+ensure unicorn_job
+ensure unicorn_garage
+ensure unicorn_stockage
+ensure esx_strippers
+
+
+____________
+
+By enos, N'oubliez pas de prendre le society que je vous ai mis 
+
+Five-Dev : https://discord.gg/pRXCnA8
